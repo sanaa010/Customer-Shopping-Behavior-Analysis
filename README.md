@@ -1,5 +1,4 @@
 # Customer-Shopping-Behavior-Analysis
-# Customer Shopping Behavior Analysis
 
 A complete end-to-end data analytics project focused on understanding customer purchasing behavior, identifying business trends, and generating actionable insights using **Python, SQL, and Power BI**.
 
@@ -68,30 +67,6 @@ This project covers the complete analytics workflow:
 
 ---
 
-## 📂 Project Structure
-
-```bash
-Customer-Shopping-Behavior-Analysis/
-│
-├── Dataset/
-│   └── customer_behavior_dataset.csv
-│
-├── SQL/
-│   └── customer_behavior_analysis_sql.sql
-│
-├── Dashboard/
-│   └── customer_behavior_dashboard.pbix
-│
-├── Presentation/
-│   └── customer_behavior_ppt.pptx
-│
-├── Business Problem/
-│   └── Business Problem.pdf
-│
-└── README.md
-```
-
----
 
 ## 📈 Key Insights
 
@@ -138,12 +113,12 @@ The Power BI dashboard includes:
 
 ## 📷 Dashboard Preview
 
-*Add dashboard screenshots here after uploading images.*
+
 
 Example:
 
 ```markdown
-![Dashboard Screenshot](images/dashboard.png)
+!
 ```
 
 ---
@@ -216,6 +191,3 @@ Aspiring Data Analyst & Business Intelligence Developer
 
 ---
 
-## ⭐ GitHub Repository
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
