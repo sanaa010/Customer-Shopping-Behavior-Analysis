@@ -115,10 +115,11 @@ The Power BI dashboard includes:
 
 
 
-Example:
+
 
 ```markdown
-!
+<img width="922" height="486" alt="image" src="https://github.com/user-attachments/assets/2d5cd2c6-ef0c-4f25-a36a-8848e034fb7e" />
+
 ```
 
 ---
